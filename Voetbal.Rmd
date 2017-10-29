@@ -1,0 +1,14 @@
+---
+title: "Voetbal"
+author: "Sander"
+date: "29 oktober 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Voetbal
+
+This document should be used to create a reproducible version of the football project...
